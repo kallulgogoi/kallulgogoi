@@ -54,22 +54,9 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 Prototype Plenary (UI/UX) – GDGC NIT Silchar  
-- 🥇 Aakruti (UI/UX) – CSS NIT Silchar  
-
----
-
 ## 📈 Coding Profiles
 - 🔗 LeetCode: https://leetcode.com/u/KALLUL/
 - 🔗 Codeforces: https://codeforces.com/profile/KALLUL
-
----
-
-## 👨‍💼 Experience & Roles
-- 👨‍🏫 Coding Club – Junior Moderator  
-- 🎨 GDG NIT Silchar – UI/UX Member  
-- 🌐 CSS Web Wing – Developer  
 
 ---
 
@@ -79,11 +66,6 @@
   <a href="https://linkedin.com/in/kallul-gogoi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:kallul_ug_24@cse.nits.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
----
-
-## ⚡ Fun Fact
-💡 *I love building products that people actually use — not just projects.*
 
 ---
 
