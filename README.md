@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.kallul.in">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/kallul-gogoi">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/kallul-gogoi](https://www.linkedin.com/in/kallul-gogoi-00a5152a0/">💼 LinkedIn</a> •
   <a href="mailto:kallul_ug_24@cse.nits.ac.in">📧 Email</a>
 </p>
 
@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://github.com/kallulgogoi"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/kallul-gogoi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/kallul-gogoi-00a5152a0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:kallul_ug_24@cse.nits.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
